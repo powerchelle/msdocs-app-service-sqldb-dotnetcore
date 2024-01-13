@@ -34,3 +34,6 @@ cd msdocs-app-service-sqldb-dotnetcore
 dotnet ef database update
 dotnet run
 ```
+
+### NOTES
+This did not deploy last time so I want to update a file and try again...
